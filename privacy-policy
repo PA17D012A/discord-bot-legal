@@ -1,0 +1,54 @@
+🔐 Privacy Policy for [Your Bot Name]
+Last Updated: March 26, 2025
+
+Thank you for using [Your Bot Name] ("we", "our", or "us"). This Privacy Policy explains how we collect, use, and protect information when you use our Discord bot ("the Bot").
+
+By using the Bot, you agree to this Privacy Policy.
+
+📊 1. Information We Collect
+We minimally collect data necessary to provide functionality. This may include:
+
+User IDs (to identify who is using the bot)
+
+Guild (Server) IDs and Channel IDs
+
+Message content (only for moderation, logging, or command execution)
+
+Custom user settings or preferences (if your bot allows configuration)
+
+⚠️ We do not collect personal information such as email addresses, IP addresses, or real names.
+
+🧠 2. How We Use Your Data
+Data collected is only used for the following purposes:
+
+To respond to commands and interactions
+
+To provide custom features like XP systems, moderation logs, reminders, etc.
+
+To improve the functionality and performance of the Bot
+
+We do not use your data for advertising, analytics, or reselling.
+
+🗃️ 3. Data Storage & Security
+All data is stored securely, either in memory or in databases with restricted access.
+
+We implement standard security measures to protect your data.
+
+We do not share your data with third parties, unless required by law.
+
+🧹 4. Data Retention & Deletion
+We retain data only as long as necessary to operate the Bot.
+
+You can request deletion of your data by contacting us at: [Your Email/Discord]
+
+Server administrators may also delete bot data using built-in commands (if available).
+
+🔗 5. Third-Party Services
+Our Bot may interact with external APIs (e.g., YouTube, OpenAI, Twitch). We do not control their data practices. Please refer to their respective privacy policies.
+
+👦 6. Children’s Privacy
+The Bot is intended for users aged 13 and up, in accordance with Discord’s Terms of Service. We do not knowingly collect data from children under 13.
+
+🔄 7. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted in the bot's support server or website. Continued use of the Bot constitutes your acceptance of the updated policy.
+
